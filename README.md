@@ -16,12 +16,18 @@
 
 - **模板2演示站点**：  
   [https://demo2.riniba.net/](https://demo2.riniba.net/)
+  
+- **模板3演示站点**：  
+  [https://demo3.riniba.net/](https://demo3.riniba.net/)
+  
 
 ## 使用方法
 
 1. 根据您的需求选择对应的模板文件夹（例如 `riniba_01`）。
 2. 下载该模板文件夹，并将其中的所有文件覆盖到独角卡程序的根目录下。
 3. 登录独角卡后台，在后台选择对应的主题进行切换，即可完成应用新模板。
+4. 有问题请联系 Telegram：https://t.me/Riniba
+5. Telegram交流群组 https://t.me/RinibaGroup
 
 > **注意**：本模板只支持独角卡的 **原版程序**，请确保您的程序版本为官方原版。
 
@@ -36,6 +42,8 @@
 ![riniba_01示例图](./image/riniba_01.png)
 
 ![riniba_02示例图](./image/riniba_02.png)
+
+![riniba_03示例图](./image/riniba_03.png)
 
 更多示例图可在 `image` 文件夹中查看。
 
